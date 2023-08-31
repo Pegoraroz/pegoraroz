@@ -1,5 +1,6 @@
 <h1 align="center">Olá me chamo Lucas Pegoraro</h1>
 <h3 align="center">Desenvolvedor FulStack</h3>
+<img align="right" alt="Codando" width="400" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif">
 
 - 🌱 Estou cursando **Desenvolvedor FullStack na faculdade Estácio**
 
