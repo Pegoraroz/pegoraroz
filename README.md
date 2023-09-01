@@ -39,7 +39,7 @@
 <div align=center>
     <h2 align-center> 🐍 Minhas Contribuições 🐍 </h2>
     <br>
-    
+    <img alt="snake" src="https://raw.githubusercontent.com/pegoraroz/pegoraroz/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <h3 align="center">
