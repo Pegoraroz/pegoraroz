@@ -1,4 +1,6 @@
-<h1 align="center">Olá! Me chamo Lucas Pegoraro</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&color=B266FF&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+Chamo+Lucas+Pegoraro!;" />
+</h1>
 <h3 align="center">Desenvolvedor FulStack</h3>
 <img align="right" alt="Codando" width="300" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif">
 
