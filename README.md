@@ -36,7 +36,11 @@
 <hr/>
 
 </div>
-
+<div align=center>
+    <h2 align-center> 🐍 Minhas Contribuições 🐍 </h2>
+    <br>
+    
+</div>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=B266FF&lines=Obrigado+por+visitar!+✌️;+Entre+em+Contato!">
