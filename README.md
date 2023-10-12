@@ -8,6 +8,8 @@
 <div align=center>
     
 🌱 Estou cursando **Desenvolvedor FullStack na faculdade Estácio**
+
+🖥️ Meu site [https://portfolio-pegorarozs-projects.vercel.app](https://portfolio-pegorarozs-projects.vercel.app)
     
 👨‍💻 Meus projetos estão aqui [https://github.com/Pegoraroz?tab=repositories](https://github.com/Pegoraroz?tab=repositories)
 
